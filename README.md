@@ -1,6 +1,6 @@
 # ![Your Name](https://github.com/salaimanis/salaimanis/blob/ffd9d29b6aa4c23b0392194674a6e1fe651854c4/Untitled%20video44.gif)
 
-## 🚀 Aspiring Data Engineer | Azure Enthusiast
+## 🚀 Aspiring Data Analyst | Data Engineer | Azure Enthusiast
 
 ### 🌐 About Me
 
