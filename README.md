@@ -4,20 +4,18 @@
 
 ### 🌐 About Me
 
-- 🌱 Entry-level Data Engineering aspirant.
+- 🌱 Entry-level Data and Cloud aspirant.
 - 💡 Passionate about building scalable data solutions on Azure.
-- 📚 Currently learning MySQL, Python, and Scala.
-- 🛠️ Familiar with Git, Power BI, Tableau, and Cloud Shell/VM.
-- 🔍 Exploring big data frameworks: Hadoop, Spark, Hive.
+- 📚 Currently learning SQL, Python, Automation. 
+- 🛠️ Familiar with Git, Power BI, Tableau and Advanced Excel.
 - 🤖 Interested in Machine Learning/AI and big data technologies.
 
 ## 💻 Skills
 
-- **Programming Languages:** Python, Scala
+- **Programming Languages:** Python.
 - **Databases:** MySQL
 - **Azure Services:** Azure Data Factory, Azure Databricks, Azure Synapse Analytics
-- **Tools:** Git, Power BI, Tableau, Cloud Shell/VM
-- **Big Data Frameworks:** Hadoop, Spark, Hive
+- **Tools:** Git, Power BI, Tableau, Advanced Excel
 
 ## 🌟 Projects
 
